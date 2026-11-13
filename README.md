@@ -21,10 +21,10 @@ Funciones principales
 
 Integrantes del equipo
 
-- Integrante 1:
-- Integrante 2:
-- Integrante 3:
-- Integrante 4:
+- Integrante 1: Ana Karen Garcia
+- Integrante 2: Alexia Paulette Vazquez
+- Integrante 3: Antonio Aguilar
+  
 
 Herramientas utilizadas
 
