@@ -1,3 +1,3 @@
-Código fuente
+Codigo fuente
 
-En esta carpeta se almacenarán los archivos de programación del Sistema Integral de Gestión Escolar (SIGE), necesarios para el funcionamiento de la plataforma.
+En esta carpeta se almacenaran los archivos de programacion del Sistema Integral de Gestion Escolar (SIGE), necesarios para el funcionamiento de la plataforma.

@@ -1,3 +1,3 @@
 Documentación del proyecto
 
-En esta carpeta se almacenará toda la documentación del Sistema Integral de Gestión Escolar (SIGE), incluyendo información, objetivos y descripción de sus funciones.
+En esta carpeta se almacenara toda la documentacion del Sistema Integral de Gestion Escolar (SIGE), incluyendo informacion, objetivos y descripcion de sus funciones.

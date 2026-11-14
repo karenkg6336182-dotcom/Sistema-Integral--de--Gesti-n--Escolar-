@@ -1,9 +1,9 @@
 Prototipos del sistema
 
-En esta carpeta se guardarán los diseños de las pantallas del Sistema Integral de Gestión Escolar (SIGE).
+En esta carpeta se guardaran los disenos de las pantallas del Sistema Integral de Gestion Escolar (SIGE).
 
-Se incluirán los siguientes prototipos:
+Se incluiran los siguientes prototipos:
 
-- Inicio de sesión.
-- Menú principal.
+- Inicio de sesion.
+- Menu principal.
 - Registro de alumnos.
